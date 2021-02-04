@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: eu.prusaczyk.chat.CardApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.129 s - in eu.prusaczyk.chat.CardApplicationTests
